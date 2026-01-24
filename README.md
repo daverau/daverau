@@ -1,5 +1,5 @@
 ### Hi, I'm Dave 👋
-- 🌱 I lead design at Aqueduct, the developer platform for LLM-powered apps
+- 🌱 I lead design at RunLLM, the AI SRE agent
 - 👯 I love to pair program & design with friends
 - 🌲 Let's take a break and go for a hike with the family!
 - 😄 Pronouns: he/him
